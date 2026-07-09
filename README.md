@@ -6,7 +6,7 @@ I am a maker Based at **Algarve FAB farm** (South of Portugal), who is passionat
 - Implement rapid prototyping workflows across laser cutting, 3D printing (SLA/FDM), and vinyl cutting.
 - Develop Progressive Web Applications (PWAs) with vanilla JavaScript for offline-first performance.
 - Collaborate within Fab Labs to document technical processes and exchange maker knowledge.
-- ### Technical Expertise
+- ### Workflows
 - **Design & CAD/CAM:** Fusion 360, KiCad, Inkscape, Parametric Design.
 - **Hardware/Fabrication:** CNC Machining, Laser Cutting, 3D Printing, PCB Soldering (SMT/Through-hole).
 - **Embedded & IoT Platforms:** ESP32, ESPHome, Arduino, I2C/SPI protocols.
